@@ -45,7 +45,6 @@
 
 $$
 z=\mu + \sigma \ \odot \ \epsilon
-
 $$
 
 - $\epsilon$: 표준 정규분포에서 뽑은 노이즈 상수
