@@ -11,7 +11,7 @@
 
 ## 0. VAE (Variational Autoencoder)
 
-![image.png](image.png)
+<img width="1500" height="700" alt="image" src="https://github.com/user-attachments/assets/41348cca-fd0f-4173-b49f-cb3aa767085c" />
 
 ---
 
